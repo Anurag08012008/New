@@ -6,7 +6,7 @@ New
 <head>
 <body>
 <h1>
-hlo world
+hello world
 </h1>
 </body>
 </head>
